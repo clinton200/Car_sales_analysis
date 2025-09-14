@@ -54,3 +54,9 @@ This project uses Python 3 with the following libraries:
 1. **pandas** → Data manipulation.
 2. **numpy** → Numerical computations.
 3. **matplotlib & seaborn** → Data visualization.
+
+## Key Insights
+Ford and VW dominate the market in terms of sales volume.
+Luxury brands (e.g., Porsche, BMW) sell fewer cars but often at higher prices.
+Engine size has a positive correlation with price, while mileage has a negative correlation.
+Prices show clear variability depending on manufacturer, model, and fuel type.
